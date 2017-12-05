@@ -70,3 +70,7 @@ then i found scratched images from challenge video is four channel, but hough_li
 am i correct? i don't know.
 
 2. my output of challenge video is poor effect(result in test_videos), i have no more better method to improve, techer can give some advances?
+
+#improvments
+
+1. result of the 'hough_lines' function have multiple lines, currently, i filtered those lines by line's slope, left and right only selected one line as lane lines. if i mixed mutiple nearby lines into one line and the effect should be more better.
